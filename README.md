@@ -23,7 +23,6 @@ Système de réveil anti-triche : si je ne suis pas levé 5 minutes après mon a
 
 - `docs/` → documentation complète du projet (PDF)
 - `code/` → firmware C++ pour ESP8266
-- `images/` → photos du montage et de l'installation
 
 ## Résultats
 
